@@ -1,5 +1,5 @@
 # 💫 Hello World! I'm Rita, a student with passionate about programming
-🌸 currently learning JavaScript and C++<br>🏫 studying at the college in Poland to become IT specialist<br>🦑 Fun fact: I dont know how to code without tea or coffee
+🌸 currently learning JavaScript and C++<br>🙇🏻‍♀️ studying at the college in Poland to become IT specialist<br>🦑 fun fact: I dont know how to code without tea or coffee
 
 
 ## 🌐 Socials:
