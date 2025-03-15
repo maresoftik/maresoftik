@@ -12,3 +12,9 @@
 [![](https://visitcount.itsvg.in/api?id=maresoftik&icon=0&color=5)](https://visitcount.itsvg.in)
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maresoft) 
+
+---
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
+###
