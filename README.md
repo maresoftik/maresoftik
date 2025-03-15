@@ -1,5 +1,4 @@
 # 💫 Hello World! I'm Rita, a student with passionate about programming
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDV4YmZpamZzMTNlM3p5NXlzN3BwZTZtMmZjMXljdDBhcGh1emtxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 🌸 currently learning JavaScript and C++<br>🙇🏻‍♀️ studying at the college in Poland to become IT specialist<br>🦑 fun fact: I dont know how to code without tea or coffee
 
 ## 🌐 Socials:
@@ -12,9 +11,3 @@
 [![](https://visitcount.itsvg.in/api?id=maresoftik&icon=0&color=5)](https://visitcount.itsvg.in)
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maresoft) 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
