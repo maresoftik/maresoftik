@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at the college in Poland to become IT specialist<br>🌱 I’m currently learning JavaScript and C++<br>⚡ Fun fact I dont know how to code without tea or coffee
+🔭 I’m currently studying at the college in Poland to become IT specialist<br>🌱 I’m currently learning JavaScript and C++<br>⚡ Fun fact: I dont know how to code without tea or coffee
 
 
 ## 🌐 Socials:
